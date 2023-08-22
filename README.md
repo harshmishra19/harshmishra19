@@ -18,8 +18,7 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
 # 📊 GitHub Stats:
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshmishra19&show_icons=true&locale=en&layout=compact" alt="harshmishra19" /></p>
+![Harsh Mishra's Stats](https://github-readme-stats.vercel.app/api?username=harshmishra19&theme=algolia&show_icons=true&hide_border=true&count_private=true)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshmishra19&show_icons=true&locale=en" alt="harshmishra19" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshmishra19&" alt="harshmishra19" /></p>
+![](https://github-readme-streak-stats.herokuapp.com/?user=harshmishra19&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=harshmishra19&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
