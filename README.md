@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harsh Mishra</h1>
-<h3 align="center">🎓I'm pursuing my Bachelor's in Computer Engineering from India.</h3>
+<h3 align="center">🎓I'm pursuing my Bachelor's in Computer Engineering</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshmishra19&label=Profile%20views&color=0e75b6&style=flat" alt="harshmishra19" /> </p>
 
