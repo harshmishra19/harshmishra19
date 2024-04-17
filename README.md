@@ -1,3 +1,6 @@
+<div>
+  <img src="./hm.png" alt = "IMAGE">
+</div>
 <h1 align="center">Hi 👋, I'm Harsh Mishra</h1>
 <h3 align="center">🎓I'm pursuing my Bachelor's in Computer Engineering</h3>
 
