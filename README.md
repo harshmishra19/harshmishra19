@@ -10,8 +10,6 @@
 
 - 🤝 I’m looking for help with **Internships**
 
-- 👨‍💻 All of my projects are available at [https://github.com/harshmishra19](https://github.com/harshmishra19)
-
 - 📫 How to reach me **harshmishra7649@gmail.com**
 
 
