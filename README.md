@@ -4,7 +4,7 @@
 <br>
 <br>
 <br>
-<img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hey%2C+I'm+Harsh+Welcome+to+my+Github+Profile!" align="middle" alt="Hey, I'm Harsh Welcome to my Profile! animated typed out">
+<img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hey%2C+I'm+Harsh+Welcome+to+my+Github+Profile!" align="middle" alt="Hey!, I'm Harsh Welcome to my Profile! animated typed out">
 I am Harsh Mishra, a passionate Developer and open-source contributor.
 I am always looking for opportunities to collaborate on new and innovative ideas. To know more about me, please feel free to connect with me.
 
