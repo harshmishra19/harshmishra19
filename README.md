@@ -10,6 +10,7 @@ I am always looking for opportunities to collaborate on new and innovative ideas
 
 <br>
 <br>
+<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshmishra19&label=Profile%20views&color=0e75b6&style=flat" alt="harshmishra19" /> </p>
 
 
