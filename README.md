@@ -23,6 +23,22 @@ I am always looking for opportunities to collaborate on new and innovative ideas
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white)
  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
 
+<br>
+
+## GSSOC 2024 Badges 
+<div style='display:flex; align-items:center; gap: 10px;' align='center'>
+<img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="130px" height="130px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="130px" height="130px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/2.png" width="130px" height="130px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/3.png" width="130px" height="130px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/4.png" width="130px" height="130px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/5.png" width="130px" height="130px" />
+</div>
+
+<br>
+
+ ## HACKTOBERFEST 2023 Badges
+- [![An image of @harshmishra19's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/harshmishra19)](https://holopin.io/@harshmishra19)
 
 # 📊 GitHub Stats:
 
@@ -31,5 +47,3 @@ I am always looking for opportunities to collaborate on new and innovative ideas
 ![](https://github-readme-streak-stats.herokuapp.com/?user=harshmishra19&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=harshmishra19&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
- ## HACKTOBERFEST 2023 : Open Source Contributor
-- [![An image of @harshmishra19's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/harshmishra19)](https://holopin.io/@harshmishra19)
