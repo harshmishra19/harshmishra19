@@ -27,12 +27,12 @@ I am always looking for opportunities to collaborate on new and innovative ideas
 
 ## GSSOC 2024 Badges 
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
-<img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="130px" height="130px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="130px" height="130px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/2.png" width="130px" height="130px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/3.png" width="130px" height="130px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/4.png" width="130px" height="130px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/5.png" width="130px" height="130px" />
+<img src="images/1.png" width="130px" height="130px" />
+<img src="images/2.png" width="130px" height="130px" />
+<img src="images/3.png" width="130px" height="130px" />
+<img src="images/4.png" width="130px" height="130px" />
+<img src="images/5.png" width="130px" height="130px" />
+<img src="images/postman.png" width="130px" height="130px" />
 </div>
 
 <br>
