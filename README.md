@@ -14,12 +14,13 @@ I am always looking for opportunities to collaborate on new and innovative ideas
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshmishra19&label=Profile%20views&color=0e75b6&style=flat" alt="harshmishra19" /> </p>
 
 
+<h2 style="font-family: 'Poppins', sans-serif;">⚙️ Languages and Tools</h2>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,mongodb,nodejs,mysql,cpp,c,python,git,github" />
+  </a>
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-mishra-7bb49523a/)
-
-# 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,mongodb,nodejs,mysql,cpp,c,python,git,github)](https://skillicons.dev)
 
 <br>
 
@@ -38,7 +39,9 @@ I am always looking for opportunities to collaborate on new and innovative ideas
  ## HACKTOBERFEST 2023 Badges
 - [![An image of @harshmishra19's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/harshmishra19)](https://holopin.io/@harshmishra19)
 
-# 📊 GitHub Stats:
+<br>
+
+## 📊 GitHub Stats:
 
 ![Harsh Mishra's Stats](https://github-readme-stats.vercel.app/api?username=harshmishra19&theme=algolia&show_icons=true&hide_border=true&count_private=true)
 
