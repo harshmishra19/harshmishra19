@@ -42,9 +42,9 @@ I am always looking for opportunities to collaborate on new and innovative ideas
 
 ## 📊 GitHub Stats:
 
-![Harsh Mishra's Stats](https://github-readme-stats.vercel.app/api?username=harshmishra19&theme=algolia&show_icons=true&hide_border=true&count_private=true)
+![](https://github-readme-stats-sigma-five.vercel.app/api?username=harshmishra19&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=harshmishra19&theme=dark&hide_border=false)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=harshmishra19&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
 
