@@ -42,8 +42,6 @@ I am always looking for opportunities to collaborate on new and innovative ideas
 
 ## 📊 GitHub Stats:
 
-![](https://github-readme-stats-sigma-five.vercel.app/api?username=harshmishra19&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-
 ![](https://github-readme-streak-stats.herokuapp.com/?user=harshmishra19&theme=dark&hide_border=false)
 
 
